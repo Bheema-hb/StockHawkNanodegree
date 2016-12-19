@@ -1,0 +1,7 @@
+#Mon Dec 19 18:11:12 IST 2016
+base.0=/Users/Bheema/Downloads/StockHawk-Divya/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63fcb8634bb047e0c7ac1e4f3bf32da9545239ab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Bheema/Downloads/StockHawk-Divya/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_669a52890e725cfe54e13565fea3442102d43ea8/classes.dex
+base.1=/Users/Bheema/Downloads/StockHawk-Divya/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_669a52890e725cfe54e13565fea3442102d43ea8
+file.0=/Users/Bheema/Downloads/StockHawk-Divya/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63fcb8634bb047e0c7ac1e4f3bf32da9545239ab/classes.dex
